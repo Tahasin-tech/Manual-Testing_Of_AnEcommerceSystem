@@ -1,6 +1,6 @@
 # Manual Testing Of An Ecommerce System
 
-This document summarizes the manual testing efforts conducted on the e-commerce website. The testing focused on core functionalities, user experience, and security aspects. Various test cases were executed, including browsing products, adding items to the cart, checkout process, payment gateways, and order confirmation. Additionally, the website's responsiveness across different devices and browsers was evaluated. Identified issues and defects were documented and reported to the development team for resolution. Overall, the website demonstrated satisfactory performance and functionality during the testing phase, with a few minor issues requiring attention.
+This document summarizes the manual testing efforts conducted on the e-commerce website. The testing focused on core functionalities, user experience, and security aspects. Various test cases were executed, including browsing products, searching products, adding Sop Contact Info, adding offers on products.Identified issues and defects were documented and reported to the development team for resolution. Overall, the website demonstrated Average performance and functionality during the testing phase, with a few minor issues requiring attention.
 
 
 ## Used Skill:
