@@ -1,6 +1,6 @@
 # Manual Testing Of Offbd Karukola Ecommerce System
 
-This document summarizes the manual testing efforts conducted on the e-commerce website. The testing focused on core functionalities, user experience, and security aspects. Various test cases were executed, including browsing products, searching products, adding Sop Contact Info, adding offers on products.Identified issues and defects were documented and reported to the development team for resolution. Overall, the website demonstrated Average performance and functionality during the testing phase, with a few minor issues requiring attention.
+This document summarizes the manual testing efforts conducted on the e-commerce website [Offbd Karukola](https://offbd.karukola.com/). The testing focused on core functionalities, user experience, and security aspects. Various test cases were executed, including browsing products, searching products, adding Sop Contact Info, adding offers on products.Identified issues and defects were documented and reported to the development team for resolution. Overall, the website demonstrated Average performance and functionality during the testing phase, with a few minor issues requiring attention.
 
 
 ## Used Skill:
